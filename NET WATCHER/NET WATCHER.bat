@@ -22,8 +22,8 @@ echo       options:
 echo    "-ps" - ( ps = packetsniffer) sniffs packets, see any activity on the network youre connected to.
 echo    "-ns" - ( ns = netstat) powerful tool that provides information about network connections, routing tables, etc. 
 echo    "-t"  - ( t = traceroute) valuable tool for monitoring, and analysis.
-echo    "-bwt"  - ( t = BandWith Test) process used to measure the data transfer speed of a network connection.
-echo    "$e"  - "( t = exit)" Exits Net Watcher.
+echo    "-bwt"  - ( bwt = BandWith Test) process used to measure the data transfer speed of a network connection.
+echo    "$e"  - "( e = exit)" Exits Net Watcher.
 echo    "$h" - ( h = help) Comes back to the page. (Not useful)
 echo.
 goto prompt
